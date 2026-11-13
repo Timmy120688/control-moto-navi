@@ -1,0 +1,11 @@
+CONTROL MOTO NAVI - PROTOTIPO INICIAL
+
+Contenido:
+- index.html: pantalla de la aplicación.
+- app.js: formularios, cálculos y guardado local.
+- manifest.webmanifest, sw.js e iconos: base para instalar como PWA.
+
+IMPORTANTE:
+Esta versión es un prototipo de interfaz. Los registros se guardan solamente en el almacenamiento local del navegador del dispositivo. Aún NO se sincronizan con OneDrive ni escriben en Control_Moto_Navi.xlsx.
+Para instalarla como aplicación PWA se debe publicar primero en un sitio HTTPS. No abras index.html como archivo local esperando que aparezca la opción de instalar.
+Antes de usarla para datos reales, se debe completar y probar la sincronización segura con OneDrive.
